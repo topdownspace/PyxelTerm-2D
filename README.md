@@ -15,3 +15,5 @@ I'm going to add to this list the more ideas I get!
 - Click [here](https://github.com/FinalFenetix/PixelPython/releases/experimental) for the **experimental release**
 - Click [here](https://github.com/FinalFenetix/PixelPython/releases/tag/old-v1.2.1) for the **old-v1.2.1**
 - Click [here](https://github.com/FinalFenetix/PixelPython/releases/tag/old-v1.2.0) for the **old-v1.2.0**
+
+@horseywin for emojis and pynput inspiration...
